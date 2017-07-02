@@ -1,15 +1,16 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "name": "mmlado/animal_pairing",
+    "description": "Animal pairing.",
+    "keywords": [],
+    "license": "Apache 2",
     "type": "project",
     "require": {
         "php": ">=5.6.4",
         "laravel/framework": "5.4.*",
+        "laravel/homestead": "5.2.3",
         "laravel/tinker": "~1.0",
         "phpunit/phpunit": "^6.2",
-        "laravel/homestead": "5.2.3"
+        "pragmarx/laravelcs": "^0.1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
